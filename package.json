@@ -1,0 +1,14 @@
+{
+  "name": "botcampo",
+  "version": "1.0.0",
+  "description": "Bot de enquete diária",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "node-cron": "^3.0.3",
+    "pino": "^8.17.0"
+  }
+}
